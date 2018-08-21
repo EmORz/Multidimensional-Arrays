@@ -1,0 +1,11 @@
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.deps.json
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.runtimeconfig.json
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.runtimeconfig.dev.json
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.dll
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.pdb
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.AssemblyInfo.cs
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.dll
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.pdb
+E:\CSharpAdvanced\MultidimensionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.csprojAssemblyReference.cache

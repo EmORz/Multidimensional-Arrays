@@ -1,0 +1,11 @@
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\bin\Debug\netcoreapp2.0\TestSum.deps.json
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\bin\Debug\netcoreapp2.0\TestSum.runtimeconfig.json
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\bin\Debug\netcoreapp2.0\TestSum.runtimeconfig.dev.json
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\bin\Debug\netcoreapp2.0\TestSum.dll
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\bin\Debug\netcoreapp2.0\TestSum.pdb
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\obj\Debug\netcoreapp2.0\TestSum.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\obj\Debug\netcoreapp2.0\TestSum.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\obj\Debug\netcoreapp2.0\TestSum.AssemblyInfo.cs
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\obj\Debug\netcoreapp2.0\TestSum.dll
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\obj\Debug\netcoreapp2.0\TestSum.pdb
+E:\CSharpAdvanced\MultidimensionalArrays\TestSum\obj\Debug\netcoreapp2.0\TestSum.csprojAssemblyReference.cache

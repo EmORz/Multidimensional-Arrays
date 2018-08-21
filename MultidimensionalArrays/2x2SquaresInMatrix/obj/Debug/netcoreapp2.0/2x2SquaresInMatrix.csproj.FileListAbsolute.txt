@@ -1,0 +1,11 @@
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.0\2x2SquaresInMatrix.deps.json
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.0\2x2SquaresInMatrix.runtimeconfig.json
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.0\2x2SquaresInMatrix.runtimeconfig.dev.json
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.0\2x2SquaresInMatrix.dll
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\bin\Debug\netcoreapp2.0\2x2SquaresInMatrix.pdb
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.0\2x2SquaresInMatrix.csprojAssemblyReference.cache
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.0\2x2SquaresInMatrix.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.0\2x2SquaresInMatrix.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.0\2x2SquaresInMatrix.AssemblyInfo.cs
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.0\2x2SquaresInMatrix.dll
+E:\CSharpAdvanced\MultidimensionalArrays\2x2SquaresInMatrix\obj\Debug\netcoreapp2.0\2x2SquaresInMatrix.pdb

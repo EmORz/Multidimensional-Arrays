@@ -1,0 +1,11 @@
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\bin\Debug\netcoreapp2.0\SumAllElementsOfMatrix.deps.json
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\bin\Debug\netcoreapp2.0\SumAllElementsOfMatrix.runtimeconfig.json
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\bin\Debug\netcoreapp2.0\SumAllElementsOfMatrix.runtimeconfig.dev.json
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\bin\Debug\netcoreapp2.0\SumAllElementsOfMatrix.dll
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\bin\Debug\netcoreapp2.0\SumAllElementsOfMatrix.pdb
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\obj\Debug\netcoreapp2.0\SumAllElementsOfMatrix.csprojAssemblyReference.cache
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\obj\Debug\netcoreapp2.0\SumAllElementsOfMatrix.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\obj\Debug\netcoreapp2.0\SumAllElementsOfMatrix.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\obj\Debug\netcoreapp2.0\SumAllElementsOfMatrix.AssemblyInfo.cs
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\obj\Debug\netcoreapp2.0\SumAllElementsOfMatrix.dll
+E:\CSharpAdvanced\MultidimensionalArrays\SumAllElementsOfMatrix\obj\Debug\netcoreapp2.0\SumAllElementsOfMatrix.pdb
