@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpAdvanced\\MultidimensionalArrays\\DiagonalDifference\\DiagonalDifference.csproj",
+      "projectUniqueName": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\DiagonalDifference\\DiagonalDifference.csproj",
       "projectName": "DiagonalDifference",
-      "projectPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\DiagonalDifference\\DiagonalDifference.csproj",
+      "projectPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\DiagonalDifference\\DiagonalDifference.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\DiagonalDifference\\obj\\",
+      "outputPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\DiagonalDifference\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

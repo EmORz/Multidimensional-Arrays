@@ -9,3 +9,14 @@ E:\CSharpAdvanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\Gr
 E:\CSharpAdvanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.AssemblyInfo.cs
 E:\CSharpAdvanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.dll
 E:\CSharpAdvanced\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.pdb

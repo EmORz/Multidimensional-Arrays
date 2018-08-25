@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpAdvanced\\MultidimensionalArrays\\GroupNumbers\\GroupNumbers.csproj",
+      "projectUniqueName": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\GroupNumbers\\GroupNumbers.csproj",
       "projectName": "GroupNumbers",
-      "projectPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\GroupNumbers\\GroupNumbers.csproj",
+      "projectPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\GroupNumbers\\GroupNumbers.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\GroupNumbers\\obj\\",
+      "outputPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\GroupNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

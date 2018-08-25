@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpAdvanced\\MultidimensionalArrays\\MatrixOfPalindromes\\MatrixOfPalindromes.csproj",
+      "projectUniqueName": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\MatrixOfPalindromes\\MatrixOfPalindromes.csproj",
       "projectName": "MatrixOfPalindromes",
-      "projectPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\MatrixOfPalindromes\\MatrixOfPalindromes.csproj",
+      "projectPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\MatrixOfPalindromes\\MatrixOfPalindromes.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\MatrixOfPalindromes\\obj\\",
+      "outputPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\MatrixOfPalindromes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

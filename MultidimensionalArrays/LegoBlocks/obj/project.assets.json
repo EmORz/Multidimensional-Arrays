@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpAdvanced\\MultidimensionalArrays\\LegoBlocks\\LegoBlocks.csproj",
+      "projectUniqueName": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\LegoBlocks\\LegoBlocks.csproj",
       "projectName": "LegoBlocks",
-      "projectPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\LegoBlocks\\LegoBlocks.csproj",
+      "projectPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\LegoBlocks\\LegoBlocks.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\LegoBlocks\\obj\\",
+      "outputPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\LegoBlocks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

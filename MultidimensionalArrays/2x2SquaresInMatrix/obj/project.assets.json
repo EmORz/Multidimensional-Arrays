@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpAdvanced\\MultidimensionalArrays\\2x2SquaresInMatrix\\2x2SquaresInMatrix.csproj",
+      "projectUniqueName": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\2x2SquaresInMatrix\\2x2SquaresInMatrix.csproj",
       "projectName": "2x2SquaresInMatrix",
-      "projectPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\2x2SquaresInMatrix\\2x2SquaresInMatrix.csproj",
+      "projectPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\2x2SquaresInMatrix\\2x2SquaresInMatrix.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpAdvanced\\MultidimensionalArrays\\2x2SquaresInMatrix\\obj\\",
+      "outputPath": "E:\\CSharpAdvanced\\Multidimensional-Arrays\\MultidimensionalArrays\\2x2SquaresInMatrix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

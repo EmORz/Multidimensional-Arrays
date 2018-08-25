@@ -9,3 +9,14 @@ E:\CSharpAdvanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\
 E:\CSharpAdvanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.AssemblyInfo.cs
 E:\CSharpAdvanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.dll
 E:\CSharpAdvanced\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.0\PascalTriangle.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.0\PascalTriangle.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.0\PascalTriangle.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.0\PascalTriangle.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.0\PascalTriangle.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.0\PascalTriangle.pdb

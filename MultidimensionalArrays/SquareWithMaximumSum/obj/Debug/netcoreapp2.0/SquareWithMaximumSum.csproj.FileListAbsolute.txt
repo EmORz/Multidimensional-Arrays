@@ -9,3 +9,14 @@ E:\CSharpAdvanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcorea
 E:\CSharpAdvanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.AssemblyInfo.cs
 E:\CSharpAdvanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.dll
 E:\CSharpAdvanced\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.pdb

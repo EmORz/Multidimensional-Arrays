@@ -1,0 +1,11 @@
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\bin\Debug\netcoreapp2.0\Crosfire.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\bin\Debug\netcoreapp2.0\Crosfire.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\bin\Debug\netcoreapp2.0\Crosfire.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\bin\Debug\netcoreapp2.0\Crosfire.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\bin\Debug\netcoreapp2.0\Crosfire.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\obj\Debug\netcoreapp2.0\Crosfire.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\obj\Debug\netcoreapp2.0\Crosfire.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\obj\Debug\netcoreapp2.0\Crosfire.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\obj\Debug\netcoreapp2.0\Crosfire.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\obj\Debug\netcoreapp2.0\Crosfire.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\Crosfire\obj\Debug\netcoreapp2.0\Crosfire.pdb

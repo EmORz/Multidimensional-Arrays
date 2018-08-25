@@ -9,3 +9,14 @@ E:\CSharpAdvanced\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp
 E:\CSharpAdvanced\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.AssemblyInfo.cs
 E:\CSharpAdvanced\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.dll
 E:\CSharpAdvanced\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.pdb

@@ -9,3 +9,14 @@ E:\CSharpAdvanced\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.0\Maxi
 E:\CSharpAdvanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.dll
 E:\CSharpAdvanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.pdb
 E:\CSharpAdvanced\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.pdb

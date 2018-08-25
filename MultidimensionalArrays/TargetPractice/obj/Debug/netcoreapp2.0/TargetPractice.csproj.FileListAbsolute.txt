@@ -1,0 +1,11 @@
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.pdb

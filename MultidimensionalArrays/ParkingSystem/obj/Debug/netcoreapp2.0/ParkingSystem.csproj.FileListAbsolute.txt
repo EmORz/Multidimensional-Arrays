@@ -1,0 +1,11 @@
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.pdb

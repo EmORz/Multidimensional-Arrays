@@ -9,3 +9,14 @@ E:\CSharpAdvanced\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\Ru
 E:\CSharpAdvanced\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.AssemblyInfo.cs
 E:\CSharpAdvanced\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.dll
 E:\CSharpAdvanced\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.csprojAssemblyReference.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.csproj.CoreCompileInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.AssemblyInfoInputs.cache
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.AssemblyInfo.cs
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.deps.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.runtimeconfig.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.runtimeconfig.dev.json
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.dll
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.pdb
