@@ -8,3 +8,4 @@ E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RadioactiveBunn
 E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.AssemblyInfo.cs
 E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.dll
 E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.pdb
+E:\CSharpAdvanced\Multidimensional-Arrays\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.csprojAssemblyReference.cache

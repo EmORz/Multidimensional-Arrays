@@ -24,6 +24,10 @@ namespace StringMatrixRotation
                 Print(matrix, rotateGegrees, maxCount);
 
             }
+            else
+            {
+                throw new Exception("Wrong input. Degrees must be multiple of 90°!!!");
+            }
         }
 
         private static void Print(List<Queue<char>> matrix, int rotateGegrees, int maxCount)
@@ -61,10 +65,7 @@ namespace StringMatrixRotation
                     maxCount--;
                 }
             }
-            Console.WriteLine(sb.ToString());
-
-   
-
+            Console.Write(sb.ToString());
         }
 
         private static void Print(List<Stack<char>> matrix, int rotateGegrees, int maxCount)
@@ -102,8 +103,7 @@ namespace StringMatrixRotation
                     maxCount--;
                 }
             }
-            Console.WriteLine(sb.ToString());
-            throw new NotImplementedException();
+            Console.Write(sb.ToString());
         }
 
         private static List<Stack<char>> InitializeMatrix(out int maxCount)

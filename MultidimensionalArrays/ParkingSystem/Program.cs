@@ -19,12 +19,12 @@ namespace ParkingSystem
                 var parkingAim = new Cell
                 {
                     Row = int.Parse(input[1]),
-                    Coll = int.Parse(input[2]),
+                    Column = int.Parse(input[2])
                 };
                 //
                 if (IsParked(parkingAim, usedCells, parkingDimenssionRowCol))
                 {
-                    Console.WriteLine(Math.Abs((carEntranceRow+1)-(parkingAim.Row +1)+(parkingAim.Coll+1)));
+                    Console.WriteLine(Math.Abs((carEntranceRow+1)-(parkingAim.Row +1))+parkingAim.Column+1);
                     usedCells.Add(parkingAim);
                 }
                 else
@@ -35,11 +35,12 @@ namespace ParkingSystem
             }
 
         }
-
         private static bool IsParked(Cell parkingAim, HashSet<Cell> usedCells, int[] parkingDimenssionRowCol)
         {
 
-            if (usedCells.Where(x => x.Row == parkingAim.Row && x.Coll == parkingAim.Coll).FirstOrDefault() == null)
+            if (usedCells
+                .Where(x => x.Row == parkingAim.Row && x.Column == parkingAim.Column)
+                .FirstOrDefault() == null)
             {
                 return true;
             }
@@ -48,30 +49,33 @@ namespace ParkingSystem
 
             while (true)
             {
-                var leftCol = parkingAim.Coll - testCol;
-                var right = parkingAim.Coll + testCol;
+                var leftCol = parkingAim.Column - testCol;
+                var right = parkingAim.Column + testCol;
 
                 if (leftCol <=0 && right >= parkingDimenssionRowCol[1])
                 {
                     break;
                 }
 
-                if (leftCol>0 && usedCells.Where(x => x.Row == parkingAim.Row && x.Coll == leftCol).FirstOrDefault() == null)
+                if (leftCol>0 
+                    && usedCells.Where(x => x.Row == parkingAim.Row && x.Column == leftCol)
+                    .FirstOrDefault() == null)
                 {
-                    parkingAim.Coll = leftCol;
+                    parkingAim.Column = leftCol;
                     return true;
                 }
 
-                if (right < parkingDimenssionRowCol[1] && usedCells.Where(x => x.Row == parkingAim.Row && x.Coll == right).FirstOrDefault() == null)
+                if (right < parkingDimenssionRowCol[1] 
+                    && usedCells.Where(x => x.Row == parkingAim.Row && x.Column == right)
+                    .FirstOrDefault() == null)
                 {
-                    parkingAim.Coll = right;
+                    parkingAim.Column = right;
                     return true;
                 }
                 testCol++;
             }
             return false;
         }
-
         private static int[] InitializeParking()
         {
             var dimension = Console.ReadLine().Split().Select(int.Parse).ToArray();
@@ -81,8 +85,7 @@ namespace ParkingSystem
     class Cell
     {
         public int Row { get; set; }
-
-        public int Coll { get; set; }
+        public int Column { get; set; }
 
 
     }
