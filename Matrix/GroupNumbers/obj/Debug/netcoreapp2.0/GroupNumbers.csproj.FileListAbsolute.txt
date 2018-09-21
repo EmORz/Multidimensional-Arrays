@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Matrix\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.deps.json
+C:\Users\User\source\repos\Matrix\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.runtimeconfig.json
+C:\Users\User\source\repos\Matrix\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Matrix\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.dll
+C:\Users\User\source\repos\Matrix\GroupNumbers\bin\Debug\netcoreapp2.0\GroupNumbers.pdb
+C:\Users\User\source\repos\Matrix\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Matrix\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matrix\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matrix\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Matrix\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.dll
+C:\Users\User\source\repos\Matrix\GroupNumbers\obj\Debug\netcoreapp2.0\GroupNumbers.pdb

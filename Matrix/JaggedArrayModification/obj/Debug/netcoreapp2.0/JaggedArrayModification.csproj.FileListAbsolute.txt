@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\bin\Debug\netcoreapp2.0\JaggedArrayModification.deps.json
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\bin\Debug\netcoreapp2.0\JaggedArrayModification.runtimeconfig.json
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\bin\Debug\netcoreapp2.0\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\bin\Debug\netcoreapp2.0\JaggedArrayModification.dll
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\bin\Debug\netcoreapp2.0\JaggedArrayModification.pdb
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\obj\Debug\netcoreapp2.0\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\obj\Debug\netcoreapp2.0\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\obj\Debug\netcoreapp2.0\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\obj\Debug\netcoreapp2.0\JaggedArrayModification.dll
+C:\Users\User\source\repos\Matrix\JaggedArrayModification\obj\Debug\netcoreapp2.0\JaggedArrayModification.pdb

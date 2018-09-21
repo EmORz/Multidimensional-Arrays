@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\bin\Debug\netcoreapp2.0\PrimaryDiagonal.deps.json
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\bin\Debug\netcoreapp2.0\PrimaryDiagonal.runtimeconfig.json
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\bin\Debug\netcoreapp2.0\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\bin\Debug\netcoreapp2.0\PrimaryDiagonal.dll
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\bin\Debug\netcoreapp2.0\PrimaryDiagonal.pdb
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\obj\Debug\netcoreapp2.0\PrimaryDiagonal.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\obj\Debug\netcoreapp2.0\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\obj\Debug\netcoreapp2.0\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\obj\Debug\netcoreapp2.0\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\obj\Debug\netcoreapp2.0\PrimaryDiagonal.dll
+C:\Users\User\source\repos\Matrix\PrimaryDiagonal\obj\Debug\netcoreapp2.0\PrimaryDiagonal.pdb

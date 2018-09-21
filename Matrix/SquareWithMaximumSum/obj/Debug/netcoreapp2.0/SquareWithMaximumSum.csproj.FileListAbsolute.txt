@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.deps.json
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.runtimeconfig.json
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.dll
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\bin\Debug\netcoreapp2.0\SquareWithMaximumSum.pdb
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.dll
+C:\Users\User\source\repos\Matrix\SquareWithMaximumSum\obj\Debug\netcoreapp2.0\SquareWithMaximumSum.pdb
