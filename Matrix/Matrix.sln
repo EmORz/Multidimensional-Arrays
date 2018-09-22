@@ -13,11 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimaryDiagonal", "PrimaryD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymbolInMatrix", "SymbolInMatrix\SymbolInMatrix.csproj", "{453899C3-D5F6-4E08-970C-E8485906620C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayModification", "JaggedArrayModification\JaggedArrayModification.csproj", "{0AE0E988-2CE9-4EFF-A425-4AE15782D083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArrayModification", "JaggedArrayModification\JaggedArrayModification.csproj", "{0AE0E988-2CE9-4EFF-A425-4AE15782D083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupNumbers", "GroupNumbers\GroupNumbers.csproj", "{C4C19B92-9489-4C00-AB6F-171A483B12ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupNumbers", "GroupNumbers\GroupNumbers.csproj", "{C4C19B92-9489-4C00-AB6F-171A483B12ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{78DA5E7C-3770-405F-BFE8-9335B5C52131}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{78DA5E7C-3770-405F-BFE8-9335B5C52131}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixOfPalindromes", "MatrixOfPalindromes\MatrixOfPalindromes.csproj", "{D0E9D58A-50F6-4C95-8B47-6CF0D840C015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{CB565F3E-AE61-4AAD-937A-B6076974D855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresInMatrix", "SquaresInMatrix\SquaresInMatrix.csproj", "{5A7D27D5-D514-4840-9545-B6B18AC96CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{78DA5E7C-3770-405F-BFE8-9335B5C52131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78DA5E7C-3770-405F-BFE8-9335B5C52131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78DA5E7C-3770-405F-BFE8-9335B5C52131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E9D58A-50F6-4C95-8B47-6CF0D840C015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E9D58A-50F6-4C95-8B47-6CF0D840C015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E9D58A-50F6-4C95-8B47-6CF0D840C015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E9D58A-50F6-4C95-8B47-6CF0D840C015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB565F3E-AE61-4AAD-937A-B6076974D855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB565F3E-AE61-4AAD-937A-B6076974D855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB565F3E-AE61-4AAD-937A-B6076974D855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB565F3E-AE61-4AAD-937A-B6076974D855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7D27D5-D514-4840-9545-B6B18AC96CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7D27D5-D514-4840-9545-B6B18AC96CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7D27D5-D514-4840-9545-B6B18AC96CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7D27D5-D514-4840-9545-B6B18AC96CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Matrix\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.deps.json
+C:\Users\User\source\repos\Matrix\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.runtimeconfig.json
+C:\Users\User\source\repos\Matrix\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Matrix\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.dll
+C:\Users\User\source\repos\Matrix\MaximalSum\bin\Debug\netcoreapp2.0\MaximalSum.pdb
+C:\Users\User\source\repos\Matrix\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Matrix\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matrix\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matrix\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.AssemblyInfo.cs
+C:\Users\User\source\repos\Matrix\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.dll
+C:\Users\User\source\repos\Matrix\MaximalSum\obj\Debug\netcoreapp2.0\MaximalSum.pdb
