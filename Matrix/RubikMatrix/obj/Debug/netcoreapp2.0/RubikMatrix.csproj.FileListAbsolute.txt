@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Matrix\RubikMatrix\bin\Debug\netcoreapp2.0\RubikMatrix.deps.json
+C:\Users\User\source\repos\Matrix\RubikMatrix\bin\Debug\netcoreapp2.0\RubikMatrix.runtimeconfig.json
+C:\Users\User\source\repos\Matrix\RubikMatrix\bin\Debug\netcoreapp2.0\RubikMatrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\Matrix\RubikMatrix\bin\Debug\netcoreapp2.0\RubikMatrix.dll
+C:\Users\User\source\repos\Matrix\RubikMatrix\bin\Debug\netcoreapp2.0\RubikMatrix.pdb
+C:\Users\User\source\repos\Matrix\RubikMatrix\obj\Debug\netcoreapp2.0\RubikMatrix.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Matrix\RubikMatrix\obj\Debug\netcoreapp2.0\RubikMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matrix\RubikMatrix\obj\Debug\netcoreapp2.0\RubikMatrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matrix\RubikMatrix\obj\Debug\netcoreapp2.0\RubikMatrix.AssemblyInfo.cs
+C:\Users\User\source\repos\Matrix\RubikMatrix\obj\Debug\netcoreapp2.0\RubikMatrix.dll
+C:\Users\User\source\repos\Matrix\RubikMatrix\obj\Debug\netcoreapp2.0\RubikMatrix.pdb

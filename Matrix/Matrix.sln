@@ -21,11 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle", "PascalTri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixOfPalindromes", "MatrixOfPalindromes\MatrixOfPalindromes.csproj", "{D0E9D58A-50F6-4C95-8B47-6CF0D840C015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{CB565F3E-AE61-4AAD-937A-B6076974D855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{CB565F3E-AE61-4AAD-937A-B6076974D855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresInMatrix", "SquaresInMatrix\SquaresInMatrix.csproj", "{5A7D27D5-D514-4840-9545-B6B18AC96CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaresInMatrix", "SquaresInMatrix\SquaresInMatrix.csproj", "{5A7D27D5-D514-4840-9545-B6B18AC96CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubikMatrix", "RubikMatrix\RubikMatrix.csproj", "{80DF85AD-D1E0-4EFA-9BEE-1104F70EC60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetPractice", "TargetPractice\TargetPractice.csproj", "{DEC9DB3F-CDBD-418B-A56C-B652D299AE99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DC6A035-E6A1-4039-A23F-4BA49A7E4F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DF85AD-D1E0-4EFA-9BEE-1104F70EC60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DF85AD-D1E0-4EFA-9BEE-1104F70EC60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DF85AD-D1E0-4EFA-9BEE-1104F70EC60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DF85AD-D1E0-4EFA-9BEE-1104F70EC60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC9DB3F-CDBD-418B-A56C-B652D299AE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC9DB3F-CDBD-418B-A56C-B652D299AE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC9DB3F-CDBD-418B-A56C-B652D299AE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC9DB3F-CDBD-418B-A56C-B652D299AE99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

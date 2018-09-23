@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Matrix\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.deps.json
+C:\Users\User\source\repos\Matrix\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.runtimeconfig.json
+C:\Users\User\source\repos\Matrix\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.runtimeconfig.dev.json
+C:\Users\User\source\repos\Matrix\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.dll
+C:\Users\User\source\repos\Matrix\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.pdb
+C:\Users\User\source\repos\Matrix\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matrix\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matrix\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.AssemblyInfo.cs
+C:\Users\User\source\repos\Matrix\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.dll
+C:\Users\User\source\repos\Matrix\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.pdb
+C:\Users\User\source\repos\Matrix\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.csprojAssemblyReference.cache
